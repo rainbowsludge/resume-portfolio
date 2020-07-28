@@ -241,7 +241,7 @@ li a:hover {
 	max-width:50%;
 	width:100%;
 	height:100%;
-	background-image : url("checkers_ss.png");
+	background-image : url("Images/checkers_ss.png");
 	background-size : cover;
 	background-position: center;
 }
